@@ -1,0 +1,6 @@
+*.deb
+packages/
+build/
+hidden_files/*
+!hidden_files/lyrics_data.json
+.DS_Store

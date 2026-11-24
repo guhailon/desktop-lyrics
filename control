@@ -1,0 +1,9 @@
+Package: com.guhailong.desktoplyrics
+Name: 巨魔歌词桌面
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: 巨魔歌词桌面 — 正在放的歌，歌词飘在桌面上（原创越狱插件）。浮窗可以拖动；只显示歌词，不做别的。
+Maintainer: 顾海龙集团
+Author: 顾海龙集团
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
